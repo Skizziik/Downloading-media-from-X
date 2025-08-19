@@ -11,8 +11,6 @@ ENV/
 # Downloads folder
 downloads/
 
-# Claude
-.claude/
 
 # IDE
 .vscode/
